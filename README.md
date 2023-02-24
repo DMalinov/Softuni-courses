@@ -1,2 +1,2 @@
-# Softuni-courses
-Courses from my education @Softuni
+# Softuni-Fundamentials
+03. Characters in Range
