@@ -1,2 +1,2 @@
-# Softuni-Fundamentials
-03. Characters in Range
+# Softuni-Fundamentals
+Data types and variables
